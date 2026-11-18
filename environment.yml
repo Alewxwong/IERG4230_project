@@ -1,0 +1,11 @@
+name: iot_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - flask=3.0
+  - flask-sqlalchemy=3.1
+  - qrcode=7.4
+  - pillow=10
+  - requests=2.32
+  - pip
